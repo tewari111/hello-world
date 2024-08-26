@@ -9,3 +9,10 @@ class AnotherOne {
         System.out.println("Another ONe");
     }
 }
+
+
+class AnothrOne {
+    void AnoherOne() {
+        System.out.println("Anothr ONe");
+    }
+}
