@@ -1,10 +1,5 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("another one");
-        System.out.println("yo yo");
-        System.out.println("Hello World!");
-        System.out.println("another one");
-        System.out.println("yo yo");
     }
 }
