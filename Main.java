@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+
+        String aws_secret_token = "AKIAIMNOJVGFDXXXE4OA";
     }
 }
-This is a test file to check for secrets
