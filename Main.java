@@ -8,6 +8,10 @@ public class Main {
 
         String another_one = "aonther one";
 
+
+        
+        String another_one_2 = "aonther one";
+
         String aws_secret_token = "AKIAIMNOJVGFDXXXE4OA";
     }
 }
