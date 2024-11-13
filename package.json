@@ -1,29 +1,17 @@
 {
-  "name": "vulnerable-package",
+  "name": "test-grype",
   "version": "1.0.0",
-  "description": "A vulnerable package example",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "express": "4.16.0",  // Known vulnerabilities
-    "lodash": "4.17.5",   // Known vulnerabilities
-    "request": "2.88.0",  // Known vulnerabilities
-    "async": "2.6.1",     // Known vulnerabilities
-    "moment": "2.22.2",   // Known vulnerabilities (e.g., prototype pollution)
-    "jsonwebtoken": "8.5.1", // Known vulnerabilities (e.g., DoS via large payloads)
-    "faker": "4.1.0",     // Known vulnerabilities (e.g., data injection vulnerabilities)
-    "bluebird": "3.5.0",   // Known vulnerabilities (e.g., denial of service)
-    "mysql": "2.16.0"      // Known vulnerabilities (e.g., SQL injection risk)
-  },
-  "devDependencies": {
-    "mocha": "5.2.0",     // Known vulnerabilities
-    "chai": "4.1.2",      // Known vulnerabilities
-    "gulp": "3.9.1",      // Known vulnerabilities (e.g., arbitrary code execution)
-    "webpack": "4.41.6",   // Known vulnerabilities (e.g., DoS attacks)
-    "eslint": "5.16.0"     // Known vulnerabilities (e.g., prototype pollution)
-  },
-  "author": "Vulnerable User",
-  "license": "MIT"
+    "axios": "^0.19.2",
+    "handlebars": "^4.0.11",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.19"
+  }
 }
