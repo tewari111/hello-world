@@ -1,0 +1,20 @@
+{
+  "name": "vulnerable-node-express-app",
+  "version": "1.0.0",
+  "description": "A basic Node.js and Express app with axios, using vulnerable package versions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",       // Known vulnerabilities in this version
+    "axios": "0.21.1",         // Known vulnerabilities in this version
+    "lodash": "4.17.15",       // Vulnerable to prototype pollution
+    "mongoose": "5.7.5"        // Known vulnerabilities in this version
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "Example Author",
+  "license": "MIT"
+}
