@@ -1,2 +1,0 @@
-String secret = "AKIAIMNOJVGFDXXXE4OA";
-String secet_one = "AKIAQYLPMN5HHHFPZAM2";
