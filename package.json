@@ -16,6 +16,11 @@
     "moment": "^2.22.2",
     "request": "^2.88.0",
     "serialize-javascript": "^2.1.1",
-    "tar": "^4.4.13"
+    "tar": "^4.4.13",
+    "lodashs": "^1.0.0",               // Confusion with 'lodash'
+    "express-http": "^1.2.3",          // Confusion with 'express'
+    "momment": "^1.0.0",               // Confusion with 'moment'
+    "reqqest": "^0.1.0",               // Confusion with 'request'
+    "serializ-javascript": "^1.0.0"   // Confusion with 'serialize-javascript'
   }
 }
