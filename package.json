@@ -21,6 +21,26 @@
     "express-http": "^1.2.3",          // Confusion with 'express'
     "momment": "^1.0.0",               // Confusion with 'moment'
     "reqqest": "^0.1.0",               // Confusion with 'request'
-    "serializ-javascript": "^1.0.0"   // Confusion with 'serialize-javascript'
+    "serializ-javascript": "^1.0.0",   // Confusion with 'serialize-javascript'
+    "lodas": "^3.0.0",                 // Confusion with 'lodash'
+    "expres": "^4.17.1",               // Confusion with 'express'
+    "mooment": "^2.0.0",               // Confusion with 'moment'
+    "requset": "^2.0.0",               // Confusion with 'request'
+    "serializ-javascipt": "^2.0.0",    // Confusion with 'serialize-javascript'
+    "exress": "^4.16.3",               // Confusion with 'express'
+    "lodah": "^5.0.0",                 // Confusion with 'lodash'
+    "momennt": "^1.0.1",               // Confusion with 'moment'
+    "rqest": "^0.1.1",                 // Confusion with 'request'
+    "serialize-javscript": "^3.0.0",   // Confusion with 'serialize-javascript'
+    "super-express": "^0.1.0",         // Self-created, absurd version of 'express'
+    "axxi": "^0.1.1",                  // Self-created, absurd version of 'axios'
+    "fakelodash": "^0.9.9",            // Self-created, absurd version of 'lodash'
+    "nodatime": "^0.0.1",              // Self-created, absurd version of 'moment'
+    "requestx": "^0.2.0",              // Self-created, absurd version of 'request'
+    "serializify": "^0.3.0",           // Self-created, absurd version of 'serialize-javascript'
+    "exprez": "^0.5.0",                // Self-created, absurd version of 'express'
+    "jsonparserx": "^2.0.0",           // Self-created, absurd JSON parsing library
+    "utilish": "^1.0.0",               // Self-created, absurd utility library
+    "notrealjson": "^0.3.0"            // Self-created, absurd version of JSON handling library
   }
 }
